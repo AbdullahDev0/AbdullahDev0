@@ -53,7 +53,7 @@ You can reach out to discuss your project or ask questions—I'm here to help.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullahirfan99&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahDev0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ---
 
