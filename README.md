@@ -54,20 +54,9 @@ You can reach out to discuss your project or ask questions—I'm here to help.
 ### GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahDev0&theme=radical)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahDev0&layout=compact&theme=radical)
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahDev0&theme=radical)
-![Repos](https://img.shields.io/github/repos/AbdullahDev0?style=flat)
-![Issues](https://img.shields.io/github/issues/AbdullahDev0?style=flat)
-![Pull Requests](https://img.shields.io/github/issues-pr/AbdullahDev0?style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/AbdullahDev0?style=social)
-![Gists](https://img.shields.io/github/gists/AbdullahDev0?style=flat)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahDev0&show_icons=true&count_private=true&hide_title=true&theme=radical)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahDev0&langs_count=10&layout=compact&theme=radical)
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=AbdullahDev0&theme=github)
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahDev0&layout=compact&langs_count=8&theme=radical)
-![Commit Days](https://github.com/AbdullahDev0/github-readme-commit-day-stats/blob/main/images/committed_days.svg)
-![GitHub Activity Graph](https://github.com/AbdullahDev0/github-readme-activity-graph/blob/main/images/commits.svg)
-![Languages Card](https://github-readme-stats.vercel.app/api/pin/?username=AbdullahDev0&repo=your-repo-name&theme=radical)
 
 ---
 
