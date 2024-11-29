@@ -53,7 +53,11 @@ You can reach out to discuss your project or ask questions—I'm here to help.
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahDev0&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahDev0&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahDev0&layout=compact&theme=radical)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahDev0&theme=radical)
+![GitHub Activity](https://activity-graph.herokuapp.com/graph?username=AbdullahDev0&theme=github)
+![GitHub Contributions](https://github-readme-activity-graph.cyclic.app/graph?username=AbdullahDev0&theme=github)
 
 ---
 
